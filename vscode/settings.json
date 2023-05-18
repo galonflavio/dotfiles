@@ -1,0 +1,46 @@
+{
+    "remote.SSH.remotePlatform": {
+        "10.10.25.111": "linux",
+        "10.140.89.12": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.trimTrailingWhitespace": true,
+    "editor.rulers": [
+        80,
+        120,
+    ],
+    "cSpell.userWords": [
+        "betable",
+        "Healthcheck",
+        "Normaliser",
+        "normalisers",
+        "Sportsbook"
+    ],
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.accessibilitySupport": "off",
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnType": true
+    },
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 13,
+    "workbench.colorTheme": "Default Dark+",
+    "editor.stickyScroll.enabled": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.indexing": true,
+    "python.analysis.extraPaths": [
+        "/home/flavio.galon/888_env/repos/mojo",
+        "/home/flavio.galon/888_env/repos/lojo",
+        "/home/flavio.galon/888_env/repos/sportsbook_utils",
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/flavio.galon/888_env/repos/mojo",
+        "/home/flavio.galon/888_env/repos/lojo",
+        "/home/flavio.galon/888_env/repos/sportsbook_utils",
+    ],
+}

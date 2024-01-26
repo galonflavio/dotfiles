@@ -12,6 +12,7 @@
     "cSpell.userWords": [
         "betable",
         "Healthcheck",
+        "inplay",
         "Normaliser",
         "normalisers",
         "Sportsbook"
@@ -19,17 +20,14 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "editor.accessibilitySupport": "off",
-    "editor.formatOnSave": true,
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnType": true
     },
     "editor.minimap.enabled": false,
     "git.openRepositoryInParentFolders": "never",
-    "window.zoomLevel": 1,
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 13,
-    "workbench.colorTheme": "Default Dark+",
     "editor.stickyScroll.enabled": true,
     "python.analysis.diagnosticMode": "workspace",
     "python.analysis.indexing": true,
@@ -43,4 +41,24 @@
         "/home/flavio.galon/888_env/repos/lojo",
         "/home/flavio.galon/888_env/repos/sportsbook_utils",
     ],
+    "codesnap.shutterAction": "copy",
+    "editor.formatOnSave": true,
+    "redhat.telemetry.enabled": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "window.zoomLevel": 1,
+    "editor.scrollbar.verticalScrollbarSize": 8,
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorCustomizations": {
+        "statusBarItem.remoteBackground": "#475055",
+        "statusBar.background": "#2a2d2e"
+    },
+    "workbench.colorTheme": "Default Dark+"
 }
